@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9ff9eb293c0e17e4199b5f756385165a
+timeCreated: 1491627247
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 500
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Marietta Seven
+  fontNames:
+  - Marietta Seven
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
